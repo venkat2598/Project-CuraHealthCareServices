@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cura HealthCare services Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Make_Appointment Test(failed)">
+    <classes>
+      <class name="testcases.Make_Appointment">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="ApplyCheckbox"/>
+          <include name="BooKAppointment"/>
+          <include name="SelectFaculty"/>
+          <include name="Historyrecord"/>
+          <include name="AppointmentDate"/>
+          <include name="history"/>
+          <include name="logout"/>
+          <include name="comment"/>
+          <include name="Menu"/>
+          <include name="Confirmation"/>
+          <include name="SelectHealthProgram"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- testcases.Make_Appointment -->
+    </classes>
+  </test> <!-- Make_Appointment Test(failed) -->
+</suite> <!-- Failed suite [Cura HealthCare services Suite] -->

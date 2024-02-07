@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cura HealthCare services Suite">
+  <test  name="Login Test">
+    <classes>
+      <class name="testcases.LoginTheApp"/>
+    </classes>
+  </test> 
+  
+  <test  name="Make_Appointment Test">
+    <classes>
+      <class name="testcases.Make_Appointment"/>
+    </classes>
+  </test>
+  
+ </suite> <!-- Cura HealthCare services Suite -->
