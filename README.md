@@ -2,7 +2,7 @@
 
 - It a demo healthcare website make a appointment using this website.
 
-- website link :  https://formy-project.herokuapp.com/
+- website link :  https://katalon-demo-cura.herokuapp.com/
 
 - I used this website to a create a own project.
 
