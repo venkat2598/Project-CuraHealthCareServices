@@ -1,11 +1,15 @@
 # Project-CuraHealthCareServices
 
-- It a demo healthcare website make a appointment using this website.
+- It a demo healthcare website checking the core functionalities of the application.
 
 - website link :  https://katalon-demo-cura.herokuapp.com/
 
-- I used this website to a create a own project.
-
-- where i checking the functionality of login page, make appointment page, history to review the appointment it successfully created in the website.
+- Implemented an automated testing project using Selenium with Java and T estNG.
+- Validated key features:
+    - login
+    - appointment booking
+    - confirmation
+    - user history
+    - logout processes.
 
 
